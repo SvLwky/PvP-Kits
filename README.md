@@ -29,7 +29,7 @@ All commands use the base prefix `/pk` and require operator-level permissions.
 ## Technical Details
 
 * **Platform**: Fabric Loader (Minecraft 26.3 / *Wilderness Bound*)
-* **API Dependencies**: Fabric API, Brigadier (Command API), Minecraft Server Permissions API.
+* **API Dependencies**: Fabric API
 * **Storage Path**: `<game-directory>/config/pvpkits/<player-uuid>.dat`
 
 ---
